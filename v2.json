@@ -1,0 +1,10 @@
+[
+  {  "content": "I got my wisdom teeth out in 2012.",  "time": 1703962809384,  "tags": ["dental", "wisdom teeth", "surgery", "2012", "tooth extraction", "dentist", "oral health", "anesthesia", "medical", "recovery"],  "history": []},
+  {  "content": "Esther's birthday is on February 6th.",  "time": 1703962809385,  "tags": ["birthday", "Esther", "February", "celebration", "personal", "calendar", "event", "date", "annual"],  "history": []},
+  {  "content": "Creed's kids are named Avery and Luke.",  "time": 1703962819384,  "tags": ["Creed", "children", "names", "Avery", "Staci", "Luke", "family", "personal", "kids"],  "history": [{"content": "Creed's kid is named Luke.",  "time": 1703852819384,  "tags":["family","names","personal","creed","taylor","staci"]}]},
+  {  "content": "My health insurance stuff is stored in Google Drive.",  "time": 1703962829384,  "tags": ["health insurance", "Google Drive", "storage", "digital", "documents", "personal", "insurance", "online", "secure"],  "history": []},
+  {  "content": "My rock climbing info is in Google Sheets.",  "time": 1703962809284,  "tags": ["rock climbing", "Google Sheets", "information", "hobby", "sports", "records", "digital", "data", "outdoor"],  "history": []},
+  {  "content": "My car insurance is with State Farm.",  "time": 1703962809584,  "tags": ["car insurance", "State Farm", "automobile", "insurance", "coverage", "personal", "vehicle", "policy", "company"],  "history": []},
+  {  "content": "I store medical information in Google Drive.",  "time": 1703962909384,  "tags": ["medical information", "Google Drive", "storage", "health", "digital", "documents", "personal", "online", "secure"],  "history": []},
+  {  "content": "My google password is correcthorsebatterystaple.",  "time": 1703962879384,  "tags": ["Google", "password", "security", "login", "access", "digital", "online", "authentication", "confidential"],  "history": []}
+]
