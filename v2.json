@@ -6,5 +6,15 @@
   {  "content": "My rock climbing info is in Google Sheets.",  "time": 1703962809284,  "tags": ["rock climbing", "Google Sheets", "information", "hobby", "sports", "records", "digital", "data", "outdoor"],  "history": []},
   {  "content": "My car insurance is with State Farm.",  "time": 1703962809584,  "tags": ["car insurance", "State Farm", "automobile", "insurance", "coverage", "personal", "vehicle", "policy", "company"],  "history": []},
   {  "content": "I store medical information in Google Drive.",  "time": 1703962909384,  "tags": ["medical information", "Google Drive", "storage", "health", "digital", "documents", "personal", "online", "secure"],  "history": []},
-  {  "content": "My google password is correcthorsebatterystaple.",  "time": 1703962879384,  "tags": ["Google", "password", "security", "login", "access", "digital", "online", "authentication", "confidential"],  "history": []}
+  {  "content": "My google password is correcthorsebatterystaple.",  "time": 1703962879384,  "tags": ["Google", "password", "security", "login", "access", "digital", "online", "authentication", "confidential"],  "history": []},
+  { "content": "Need to replace the kitchen light bulb.", "time": 1703963009384, "tags": ["home maintenance", "kitchen", "light bulb", "replacement", "household", "electricity", "DIY"], "history": []},
+  { "content": "Book club meeting next Thursday at 7 PM.", "time": 1703963019384, "tags": ["book club", "meeting", "schedule", "reading", "discussion", "event", "social"], "history": []},
+  { "content": "Yoga class subscription renews on January 15th.", "time": 1703963029384, "tags": ["yoga", "subscription", "renewal", "fitness", "wellness", "date", "payment"], "history": []},
+  { "content": "Vet appointment for Max on Friday at 10 AM.", "time": 1703963039384, "tags": ["vet", "appointment", "pet", "dog", "Max", "health", "schedule"], "history": []},
+  { "content": "Grocery list: eggs, milk, bread, apples, chicken.", "time": 1703963049384, "tags": ["grocery", "shopping", "food", "list", "essentials", "kitchen", "supplies"], "history": []},
+  { "content": "Renew library books by next Wednesday.", "time": 1703963059384, "tags": ["library", "books", "renewal", "due date", "reading", "borrow", "schedule"], "history": []},
+  { "content": "Meeting with Sarah at the coffee shop, Tuesday 3 PM.", "time": 1703963069384, "tags": ["meeting", "Sarah", "coffee shop", "schedule", "appointment", "discussion", "business"], "history": []},
+  { "content": "Change the oil in the car this weekend.", "time": 1703963079384, "tags": ["car maintenance", "oil change", "vehicle", "weekend", "task", "auto care"], "history": []},
+  { "content": "Start preparing tax documents for the accountant.", "time": 1703963089384, "tags": ["taxes", "accountant", "documents", "finance", "preparation", "personal finance"], "history": []},
+  { "content": "Call the plumber about the leaking faucet.", "time": 1703963099384, "tags": ["plumber", "leaking faucet", "home repair", "maintenance", "call", "household"], "history": []}
 ]
